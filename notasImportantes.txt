@@ -1,0 +1,27 @@
+fechas de la planificaion {
+	
+	fecha de ini pasantiuas ( permitir registro generales )
+
+	fecha entrega req ini ( hasta esta fecha se permiten registros generales )
+
+	fecha primera visita ( si el tutor academico no visita al pasante no puede cargar notas " el pasante notifica si fue visitado o no ")
+
+		si no fue visitado se va al modulo de reasignacion de tutor academico
+
+	fecha segunda visiata ( si el tutor academico no visita al pasante no puede cargar notas " el pasante notifica si fue visitado o no " )
+
+		 ya no hay mas reasignacion
+
+	fecha culminacion de pasantias {
+
+		los estudiante reprobados no pueden postularse en el sigiente periodo en la misma empresa
+
+	}
+
+}
+
+carta de aceptacion
+carta de culpminacion
+reporte de actividades
+permitri actializar notas de la coordinacion
+listar notas
